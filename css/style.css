@@ -32,16 +32,51 @@ h3 {
   background: grey;
 }
 
-/*"The Classy Roommate"*/
-
+/* The Classy Roommate */
+.poster #audrey {
+  border: 20px ridge blue;
+  display: block;
+  margin:0 auto;
+  
+}
 
 /*"The Neurotic New Yorker"*/
+#obama, #new_york {
+  border: 20px solid red;
+}
 
+#new_york {
+  padding: 10px 10px 10px 10px;  
+}
   
 /*"The Change the World Roommate"*/
-
+#obama2 {
+  float: left;
+  border: 20px ridge blue;
+}
+  
+#rosie {
+  float: left;
+  border: 10px dashed black;
+  
+}
 
 /*"The Art History Major"*/
+
+div#art img {
+  height: 300px;
+  width: 200px;
+
+}
+
+div#art {
+  border: 20px solid black; 
+  display: block;
+  margin: 0 auto;
+}
+
+
+
 
 /*"New Theme"*/
 
