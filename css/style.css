@@ -33,15 +33,71 @@ h3 {
 }
 
 /*"The Classy Roommate"*/
-
+body div:first-of-type img{
+  border-color: #FF6666;
+  border-width: 15px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
 
 /*"The Neurotic New Yorker"*/
+body div:nth-of-type(2) img:nth-of-type(1){
+  border-color: #FF6666;
+  border-width: 15px;
+  width: 250px;
+  border-style: solid;
+  margin-left: 115px;
+  float: left;
+}
 
-  
+body div:nth-of-type(2) img:nth-of-type(2){
+  border-color: #3366FF;
+  border-width: 15px;
+  width: 250px;
+  border-style: solid;
+  display: block;
+  margin-right: 115px;
+  float: right;
+}
+
 /*"The Change the World Roommate"*/
 
+body div:nth-of-type(3) img:nth-of-type(1){
+  border-color: #FF6666;
+  border-width: 15px;
+  width: 250px;
+  border-style: solid;
+  float: left;
+}
+
+body div:nth-of-type(3) img:nth-of-type(2){
+  border-color: #3366FF;
+  border-width: 15px;
+  width: 250px;
+  border-style: solid;
+  display: block;
+  float: right;
+}
 
 /*"The Art History Major"*/
+body div:nth-of-type(4) img:nth-of-type(1){
+  border-color: black;
+  border-width: 15px;
+  width: 250px;
+  border-style: solid;
+  float: left;
+}
 
+body div:nth-of-type(4) img:nth-of-type(2){
+  border-color: black;
+  border-width: 15px;
+  width: 250px;
+  border-style: solid;
+  display: block;
+  float: right;
+}
 /*"New Theme"*/
 
