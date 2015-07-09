@@ -33,15 +33,86 @@ h3 {
 }
 
 /*"The Classy Roommate"*/
-
+#audrey {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6px;
+  display: block;
+  border: 5px solid black;
+  background-color: blue;
+}
 
 /*"The Neurotic New Yorker"*/
+#nyc {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6px;
+  display: block;
+  border: 5px solid black;
+  background-color: blue;
+  float: left;
+}
 
+#woody {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 60px;
+  display: block;
+  border: 5px solid black;
+  background-color: blue;
+  float: right;
+}
+  
   
 /*"The Change the World Roommate"*/
+#rosie {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6px;
+  display: block;
+  border: 5px solid black;
+  background-color: blue;
+  float: left;
+}
+
+#obama {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  display: block;
+  border: 5px solid white;
+  background-color: blue;
+  float: right;
+}
 
 
 /*"The Art History Major"*/
+#art {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  display: block;
+  border: 5px solid white;
+  background-color: blue;
+}
+
+#picasso {
+  margin-left: 13%;
+  width: auto;
+  height: 300px;
+}
+
+#warhol {
+  width: auto;
+  height: 300px;
+}
+
 
 /*"New Theme"*/
-
+#pepe {
+  margin: auto;
+  padding: 10px;
+  display: block;
+  border: 5px solid black;
+  background-color: blue;
+}
