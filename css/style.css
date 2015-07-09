@@ -34,12 +34,58 @@ h3 {
 
 /*"The Classy Roommate"*/
 
+body div:first-of-type img {
+  border-color: #FF6666;
+  border-width: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /*"The Neurotic New Yorker"*/
 
+body div:nth-of-type(2) img {
+  border-color: #FF6666;
+  border-width: 15px;
+  border-style: solid;
+  display: block;
+  float: left;
+} 
+
+body div:nth-of-type(2) img:last-of-type {
+  border-color: #FF6666;
+  border-width: 15px;
+  border-style: solid;
+  display: block;
+  float: right;
   
+  body div:nth-of-type(2) div {
+    display: block;
+    margin: auto;
+    width: 70%;
+  }
+}
+
+
+
+
 /*"The Change the World Roommate"*/
 
+body div:nth-of-type(3) img {
+  border-color: #FF6666;
+  border-width: 15px;
+  border-style: solid;
+  display: block;
+  float: right;
+} 
+
+body div:nth-of-type(3) img: last-of-type {
+  border-color: #FF6666;
+  border-width: 15px;
+  border-style: solid;
+  display: block;
+  float: left;
+} 
 
 /*"The Art History Major"*/
 
