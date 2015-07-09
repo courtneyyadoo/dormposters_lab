@@ -34,14 +34,57 @@ h3 {
 
 /*"The Classy Roommate"*/
 
+#audrey{
+  display: block;
+  margin: 0px auto;
+  border: 20px solid blue;
+}
+
+
 
 /*"The Neurotic New Yorker"*/
 
-  
-/*"The Change the World Roommate"*/
+
+
+span img {
+  border: 20px solid black;
+  margin: 20px;
+}
+
+#audrey2 {
+  padding: 7px;
+}
+
+/* "Change the World Roommate"*/
+#obama {
+  float: right;
+  border: 20px solid red;
+}
+
+#rosie {
+  float: left;
+  border: 20px solid black;
+}
 
 
 /*"The Art History Major"*/
+
+
+#art img {
+  height: 300px;
+  width: auto;
+  padding: 20px;
+}
+
+#art {
+  border: 20px solid black;
+}
+
+#art2 {
+  display: block;
+  margin: 0px auto;
+}
+
 
 /*"New Theme"*/
 
